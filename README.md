@@ -1,6 +1,6 @@
 # Hola!:wave:
 
-Hi I'm Daniel Muremwa Mburu, a student in Information Science & with love for programming, the cloud and tech in general. Looking to be an open source contributor, working to use programming for good, big team player. Python is my first language, JavaScript and other languages are on my belt too and I am very happy to learn new ones.  
+Hi I'm Daniel Muremwa Mburu, a software engineer with love for programming, the cloud and tech in general, graduated from the school of Information Science, Moi University in 2022. Looking to be an open source contributor, working to use programming for good, big team player. Python is my first language, JavaScript, TypeScript and other languages are on my belt too and I am very happy to learn new ones.  
 
 
 ## Find me around the WWW🌎:
@@ -23,3 +23,4 @@ Hi I'm Daniel Muremwa Mburu, a student in Information Science & with love for pr
 
 ---
 ⭐️ From [Muremwa](https://github.com/muremwa)
+
