@@ -10,6 +10,7 @@ Hi I'm Daniel Muremwa Mburu, a software engineer with love for programming, the 
 
 - Contributing on: <a href="https://github.com/muremwa"><img src="https://img.shields.io/github/followers/muremwa.svg?label=GitHub&style=social" alt="GitHub"></a>
 
+- Contributing on: <a href="https://github.com/wild-times/"><img src="https://img.shields.io/github/followers/muremwa.svg?label=GitHub&style=social" alt="GitHub Organisation"></a>
 
 - Trying to be up to good on: <a href="https://twitter.com/muremwa_dan"><img src="https://img.shields.io/twitter/follow/muremwa_dan?label=Twitter&style=social" alt="Twitter"></a> 
 
